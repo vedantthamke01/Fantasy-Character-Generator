@@ -1,0 +1,4 @@
+%%writefile sample_agent/requirements.txt
+
+google-adk
+opentelemetry-instrumentation-google-genai
